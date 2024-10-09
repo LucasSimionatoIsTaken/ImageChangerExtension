@@ -5,11 +5,11 @@ const images = [
 
     // Imagens na pasta
     ...[
-        "robson1.jpg",
-        "robson2.jpg",
-        "robson3.jpg",
-        "robson4.jpg",
-        "robson5.jpg",
+        "robson1.jpeg",
+        "robson2.jpeg",
+        "robson3.jpeg",
+        "robson4.jpeg",
+        "robson5.jpeg",
     ].map(img => chrome.runtime.getURL(`img/${img}`))
 ]
 
