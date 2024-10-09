@@ -1,4 +1,4 @@
-# Image Maker
+# Image Changer
 
 Extensão que troca as imagens de uma página por imagens de cachorros e sapos.
 Você pode trocar as imagens colocando seus links na main.js, adicionando imagens locais ou online
