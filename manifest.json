@@ -10,7 +10,7 @@
     ],
     "web_accessible_resources": [
         {
-            "resources": ["*.png", "*.jpg"],
+            "resources": ["*.png", "*.jpg", "*.jpeg", "*.ico", "*.svg"],
             "matches": ["<all_urls>"]
         }
     ]
