@@ -1,6 +1,6 @@
 # Image Changer
 
-Extensão que troca as imagens de uma página por imagens de cachorros e sapos.
+Extensão que troca as imagens de uma página por imagens do Robson (sim, Robson) e sapos.
 Você pode trocar as imagens colocando seus links na main.js, adicionando imagens locais ou online
 
 Para ativar a extensão, 
