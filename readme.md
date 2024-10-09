@@ -1,7 +1,7 @@
 # Image Maker
 
-Extensão que troca as imagens de uma página por imagens de cachorros.
-Você pode trocar as imagens colocando seus links na main.js no array images
+Extensão que troca as imagens de uma página por imagens de cachorros e sapos.
+Você pode trocar as imagens colocando seus links na main.js, adicionando imagens locais ou online
 
 Para ativar a extensão, 
 1. Abra a página chrome://extensions
